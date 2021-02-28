@@ -136,7 +136,7 @@ body {
   background-position: center;
 }
 #specials-tile {
-  background: url('specials-tile.jpg') no-repeat;
+  background: url('https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/assignment5-solution-starter/images/specials-tile.jpg?raw=true') no-repeat;
   background-position: center;
 }
 #menu-tile span, #specials-tile span, #map-tile span {
